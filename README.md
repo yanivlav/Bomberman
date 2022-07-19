@@ -1,1 +1,1 @@
-"# Bombameer" 
+"Bombameer is Bomberman game" 
