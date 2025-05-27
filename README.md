@@ -64,7 +64,7 @@ This project recreates the timeless Bomberman gameplay, where players navigate a
 
 3. **Build and run the project:**
 
-   - Locate the main class (e.g., `Game.java`) and run it.
+   - Run ```/src/run/MainApplication.java```.
 
 ## 🧪 Testing
 
