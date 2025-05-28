@@ -131,5 +131,5 @@ Bomberman/
 
 ## 📜 License
 
-Specify the license here (e.g., MIT License).
+MIT License.
 
